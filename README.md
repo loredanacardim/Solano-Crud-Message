@@ -21,7 +21,7 @@ This project was built following the official Solana tutorial for Anchor and PDA
 
 ## 🔗 Useful Links
 
-- [Official Solana Anchor Tutorial]([https://project-serum.github.io/anchor/tutorials/tutorial-1](https://solana.com/pt/docs/intro/quick-start/deploying-programs))  
+- [Official Solana Anchor Tutorial](https://solana.com/pt/docs/intro/quick-start/deploying-programs) 
 - [My GitHub repository](https://github.com/loredanacardim/Solano-Crud-Message)  
 
 ---
